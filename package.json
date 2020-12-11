@@ -21,5 +21,8 @@
         "commitizen": {
             "path": "./node_modules/cz-conventional-changelog"
         }
+    },
+    "dependencies": {
+        "alpinejs": "^2.7.3"
     }
 }
