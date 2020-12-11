@@ -10,7 +10,8 @@
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
-    <body class="text-gray-900 font-sans antialiased">
+    <body class="font-sans antialiased text-gray-900">
         @yield('body')
+    <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     </body>
 </html>
