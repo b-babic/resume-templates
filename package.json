@@ -16,6 +16,7 @@
         "laravel-mix-jigsaw": "^1.1.0",
         "postcss-import": "^12.0.0",
         "tailwindcss": "^1.9.6",
+        "tailwindcss-font-inter": "^2.0.0",
         "vue-template-compiler": "^2.6.12"
     },
     "config": {
