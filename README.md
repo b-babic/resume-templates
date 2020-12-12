@@ -1,7 +1,7 @@
 Static website boilerplate using tailwindcss and alpine.
 Jigsaw static site generator is used for routing and templating.
 
-## Documentation reference pages
+## Documentation reference pages :books:
 [jigsaw](https://jigsaw.tighten.co/docs/collections/)  
 [tailwind](https://tailwindcss.com/docs)  
 [tailwind play](https://play.tailwindcss.com)  
@@ -11,7 +11,7 @@ Jigsaw static site generator is used for routing and templating.
 [patterns](https://www.heropatterns.com)  
 [alpine](https://laravel-livewire.com/docs/2.x/alpine-js)  
 
-## Getting started
+## Getting started :herb:
 
 Generate site:
 ```bash
@@ -28,6 +28,6 @@ Preview with `browserSync`:
 yarn dev
 ```
 
-Visit the following urls for the preview:
+Visit the following urls for the preview :shrug: : 
 - `http://localhost:8000` in case you're using php way
 - `http://localhost:3000` in case you're using browsersync
