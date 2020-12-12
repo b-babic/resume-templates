@@ -1,15 +1,12 @@
-Static website boilerplate using tailwindcss and alpine.
-Jigsaw static site generator is used for routing and templating.
+## About 🤷
+Set of free, hand-coded resume templates.   
+Clone the project, add data you want and hit the print button.  
 
-## Documentation reference pages :books:
-[jigsaw](https://jigsaw.tighten.co/docs/collections/)  
-[tailwind](https://tailwindcss.com/docs)  
-[tailwind play](https://play.tailwindcss.com)  
-[theme reference](https://tailwindcss.com/docs/theme#configuration-reference)  
-[default theme](https://github.com/tailwindlabs/tailwindcss/blob/master/stubs/defaultConfig.stub.js#L7)  
-[icons](https://heroicons.com)  
-[patterns](https://www.heropatterns.com)  
-[alpine](https://laravel-livewire.com/docs/2.x/alpine-js)  
+Please note that I'm not associated with the design of those templates.   
+Please check out awesome figma members in the description below.
+
+## Design by 📕
+
 
 ## Getting started :herb:
 
