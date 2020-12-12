@@ -13,4 +13,9 @@ mix.jigsaw()
     .options({
         processCssUrls: false,
     })
-    .version();
+  .version();
+
+if(mix.inProduction()) {
+  mix.sourceMaps();
+}
+
