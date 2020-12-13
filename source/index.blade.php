@@ -2,7 +2,6 @@
 
 @section('body')
 <main>
-    <div class="container mx-auto">
         <h1 class="text-3xl font-bold leading-normal tracking-wide">Resume templates 🧾</h2>
         <p class="mb-6 text-2xl leading-normal tracking-wide">
             Free, carefully crafted cv options for your next resume.    
@@ -11,6 +10,5 @@
         <section id="templates">
             @include('_partials.navigation')
         </section>
-    </div>
 </main>
 @endsection
