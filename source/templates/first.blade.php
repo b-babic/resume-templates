@@ -11,6 +11,7 @@
     </header> 
     <article class="p-12">
         @include('_partials.first.about')
+        @include('_partials.first.work')
     </article>
 </section>
 @endsection
