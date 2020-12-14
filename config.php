@@ -18,6 +18,10 @@ return [
     'collections' => [
         "about" => [
             'path' => 'about',
+        ],
+        "experiences" => [
+            'path' => 'work',
+            'sort' => 'start_date'
         ]
     ],
 ];
