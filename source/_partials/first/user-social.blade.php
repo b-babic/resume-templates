@@ -1,4 +1,4 @@
-<ul class="mt-4 list-none min-w-1/3 space-y-2">
+<ul class="mt-2 list-none space-y-2">
     <li class="flex items-center space-x-4">
         @include('_icons.github-inverted')
         <a href="{{$page->githubUrl}}">{{$page->githubHandle}}</a>

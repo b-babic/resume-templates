@@ -14,6 +14,9 @@
     
         <div class="mx-auto container print:max-w-full">
             @yield('body')
+        </div>
+
+        <div class="max-w-a4 mx-auto border-gray-100 print:max-w-full">
             @yield('resume')
         </div>
         
