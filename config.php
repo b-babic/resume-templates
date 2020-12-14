@@ -15,5 +15,9 @@ return [
     'githubHandle' => $faker->word,
     'linkedinUrl' => $faker->url,
     'linkedinHandle' => $faker->word,
-    'collections' => [],
+    'collections' => [
+        "about" => [
+            'path' => 'about',
+        ]
+    ],
 ];
