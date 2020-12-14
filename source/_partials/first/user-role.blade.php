@@ -1,4 +1,4 @@
-<div class="flex items-center justify-between space-x-6">
+<div class="flex items-center justify-between print:table-cell space-x-6">
     <div
         style="-webkit-background-clip: padding-box;"
         class="flex items-center justify-center w-24 h-24 rounded-full bg-gradient-to-r from-indigo-500 to-teal-400"

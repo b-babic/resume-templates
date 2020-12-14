@@ -12,7 +12,7 @@
     </head>
     <body class="w-screen h-screen p-16 antialiased text-gray-900 bg-white font-inter">
     
-        <div class="container mx-auto">
+        <div class="mx-auto container print:max-w-full">
             @yield('body')
             @yield('resume')
         </div>
