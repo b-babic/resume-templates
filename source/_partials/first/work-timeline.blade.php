@@ -13,7 +13,7 @@
 
 		<div class="relative flex-1">
   		<div class="border-r-2 border-dotted border-teal-500 absolute h-full top-0" style="left: .65rem; top: .5rem;"></div>
-			<ul class="list-none m-0 p-0">
+			<ul class="list-none">
 				<li class="mb-12">
 					<div class="flex mb-4">
 						<div class="mt-1 rounded-full h-6 w-6 bg-gradient-to-r from-teal-400 to-indigo-500 flex items-center justify-center z-10">
