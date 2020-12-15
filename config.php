@@ -19,9 +19,9 @@ return [
         "about" => [
             'path' => 'about',
         ],
-        "experiences" => [
+        "work" => [
             'path' => 'work',
-            'sort' => 'start_date'
+            'sort' => 'end_date'
         ]
     ],
 ];
