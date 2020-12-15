@@ -10,4 +10,6 @@
 		</div>
 		<div class="flex-1 h-px bg-gradient-to-r from-teal-400 to-indigo-500 rounded-lg"></div>
 	</h3>
+
+	@include('_partials.first.work-timeline')
 </section>

@@ -9,7 +9,7 @@
             @include('_partials.first.user-social')
         </div>
     </header> 
-    <article class="p-12">
+    <article class="p-8">
         @include('_partials.first.about')
         @include('_partials.first.work')
     </article>
