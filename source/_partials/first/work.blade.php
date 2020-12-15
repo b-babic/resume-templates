@@ -1,4 +1,4 @@
-<section>
+<section class="mb-16">
 	<h3 class="flex items-center space-x-6 mb-6">
 		<div class="flex items-center space-x-4">
 			@include('_icons.first-template.work')
