@@ -1,20 +1,22 @@
 <?php
 
-$faker = Faker\Factory::create();
+$dummy_data = Faker\Factory::create();
 
 return [
     'production' => false,
     'baseUrl' => '',
     'title' => 'Jigsaw',
     'description' => 'Website description.',
-    'author' => $faker->name,
-    'jobTitle' => $faker->jobTitle,
-    'email' => $faker->email,
-    'telephone' => $faker->phoneNumber,
-    'githubUrl' => $faker->url,
-    'githubHandle' => $faker->word,
-    'linkedinUrl' => $faker->url,
-    'linkedinHandle' => $faker->word,
+    'author' => $dummy_data->name,
+    'jobTitle' => $dummy_data->jobTitle,
+    'email' => $dummy_data->email,
+    'telephone' => $dummy_data->phoneNumber,
+    'githubUrl' => $dummy_data->url,
+    'githubHandle' => $dummy_data->word,
+    'linkedinUrl' => $dummy_data->url,
+    'linkedinHandle' => $dummy_data->word,
+
+    // collections
     'collections' => [
         "about" => [
             'path' => 'about',
