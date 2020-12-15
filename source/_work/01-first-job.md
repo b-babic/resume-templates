@@ -1,11 +1,10 @@
 ---
 extends: _layouts.work
-title: My First Job Title
-start_date: 2017-03-23
-end_date: 2018-03-23
-company_name: Company name(Insurance)
-role: Lead Designer
 section: content
+role: Research Associate
+company_name: Centimia
+start_date: 2019-07-27
+end_date: 2020-03-04
 ---
 
-I work as Senior Lead Designer at Foyer, building a Design System and leading the **UX** on different Foyer Group companies.
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. **Mauris lacinia** sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.	
