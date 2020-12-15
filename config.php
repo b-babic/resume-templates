@@ -16,6 +16,25 @@ return [
     'linkedinUrl' => $dummy_data->url,
     'linkedinHandle' => $dummy_data->word,
 
+    // skills and tools
+    'skills' => [
+        'User experience (UX)',
+        'User interview',
+        'Wireframing / Prototyping',
+        'Front-End Development',
+        'User Interface (UI)',
+        'Speaker / Writer / Teacher'
+    ],
+    'tools' => [
+        'Figma, Framer',
+        'Sketch, Invision',
+        'HTML5, CSS3, Javascript',
+        'PHP, Wordpress, MySQL',
+        'Git, SVN',
+        'Sublime Text, VSCode'
+    ],
+
+
     // collections
     'collections' => [
         "about" => [
