@@ -12,6 +12,7 @@
     <article class="p-8">
         @include('_partials.first.about')
         @include('_partials.first.work')
+        @include('_partials.first.skills-tools')
     </article>
 </section>
 @endsection
