@@ -43,6 +43,10 @@ return [
         "work" => [
             'path' => 'work',
             'sort' => 'end_date'
+        ],
+        "talks" => [
+            'path' => 'talks',
+            'sort' => 'date'
         ]
     ],
 ];
