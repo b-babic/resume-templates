@@ -13,6 +13,7 @@
         @include('_partials.first.about')
         @include('_partials.first.work')
         @include('_partials.first.skills-tools')
+        @include('_partials.first.talk')
     </article>
 </section>
 @endsection
